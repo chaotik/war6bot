@@ -5,7 +5,7 @@
   "author": "weslibby@gmail.com",
   "description": "war6bot",
   "dependencies": {
-    "destbot": "^1.0.1",
+    "destbot": "^1.0.2",
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.3",
