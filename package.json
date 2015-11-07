@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "author": "weslibby@gmail.com",
-  "description": "A simple helpful robot for your Company",
+  "description": "war6bot",
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-diagnostics": "0.0.1",
@@ -17,8 +17,7 @@
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
     "hubot-shipit": "^0.2.0",
-    "hubot-slack": "^3.4.1",
-    "slack-destiny-bot": "^1.0.4"
+    "hubot-slack": "^3.4.1"
   },
   "engines": {
     "node": "0.10.x"
